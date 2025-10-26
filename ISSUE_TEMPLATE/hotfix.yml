@@ -1,0 +1,19 @@
+name: 🐛 Hotfix / Critical Bug
+description: Report a bug that requires immediate correction in the 'live' branch.
+title: "[HOTFIX] Brief description of the fix"
+labels: ["type: bug", "status: ready", "priority: p0"]
+body:
+  - type: textarea
+    id: bug-description
+    attributes:
+      label: "Bug Description"
+      description: Describe what happened and where the error occurred.
+    validations:
+      required: true
+  - type: textarea
+    id: reproduction-steps
+    attributes:
+      label: "Reproduction Steps"
+      description: List the exact steps to reproduce the bug.
+    validations:
+      required: true
