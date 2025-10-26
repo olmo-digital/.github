@@ -1,0 +1,12 @@
+name: 📝 Non-Code Task / Documentation
+description: Activities that do not involve code changes, such as documentation updates or configuration tasks.
+title: "[TASK] Brief description of non-code activity"
+labels: ["type: task", "status: backlog"]
+body:
+  - type: textarea
+    id: task-description
+    attributes:
+      label: "Task Description"
+      description: Detail the activity to be carried out.
+    validations:
+      required: true
