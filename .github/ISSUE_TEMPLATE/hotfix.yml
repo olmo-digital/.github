@@ -9,11 +9,11 @@ body:
       label: "Bug Description"
       description: Describe what happened and where the error occurred.
     validations:
-      required: true
+      required: false
   - type: textarea
     id: reproduction-steps
     attributes:
       label: "Reproduction Steps"
       description: List the exact steps to reproduce the bug.
     validations:
-      required: true
+      required: false
