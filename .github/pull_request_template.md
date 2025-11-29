@@ -1,6 +1,10 @@
 🔗 Issue Linkage (MANDATORY)
 
-Closes #<!-- REPLACE WITH ISSUE NUMBER, e.g., Closes #420 -->
+This PR is linked to the following Issue:
+
+Please use Refs #... for all Pull Requests to prevent premature closure.
+
+Refs #<!-- REPLACE WITH ISSUE NUMBER, e.g., Refs #420 -->
 
 📝 Summary of Changes
 
