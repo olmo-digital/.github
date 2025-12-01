@@ -4,9 +4,9 @@ title: "[HOTFIX] Brief description of the fix"
 labels: ["type: bug", "status: ready", "priority: p0"]
 body:
   - type: textarea
-    id: bug-description
+    id: bug-details
     attributes:
-      label: "Bug Description"
-      description: Describe what happened and where the error occurred.
+      label: "Critical Bug Details"
+      description: Provide all necessary details to understand and fix this critical bug.
     validations:
       required: true

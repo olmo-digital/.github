@@ -4,9 +4,9 @@ title: "[FEAT] Brief feature description"
 labels: ["type: feature", "status: backlog", "priority: p1"]
 body:
   - type: textarea
-    id: problem
+    id: feature-details
     attributes:
-      label: "Problem or Goal"
-      description: Explain what problem this feature solves or what its main objective is.
+      label: "Detailed Proposal"
+      description: Please provide a detailed proposal for this feature.
     validations:
       required: true

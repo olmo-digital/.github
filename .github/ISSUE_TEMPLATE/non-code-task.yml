@@ -4,7 +4,7 @@ title: "[TASK] Brief description of non-code activity"
 labels: ["type: task", "status: backlog"]
 body:
   - type: textarea
-    id: task-description
+    id: task-details
     attributes:
       label: "Task Description"
       description: Detail the activity to be carried out.
