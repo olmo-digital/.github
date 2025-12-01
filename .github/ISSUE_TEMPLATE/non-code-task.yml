@@ -9,4 +9,4 @@ body:
       label: "Task Description"
       description: Detail the activity to be carried out.
     validations:
-      required: false
+      required: true

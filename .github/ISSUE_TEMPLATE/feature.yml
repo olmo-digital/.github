@@ -9,18 +9,4 @@ body:
       label: "Problem or Goal"
       description: Explain what problem this feature solves or what its main objective is.
     validations:
-      required: false
-  - type: textarea
-    id: solution
-    attributes:
-      label: "Proposed Solution"
-      description: Describe how this feature will be implemented or what changes are expected.
-    validations:
-      required: false
-  - type: textarea
-    id: acceptance-criteria
-    attributes:
-      label: "Acceptance Criteria"
-      description: What must be true for this feature to be considered complete?
-    validations:
-      required: false
+      required: true
